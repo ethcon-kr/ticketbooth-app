@@ -1,0 +1,25 @@
+{
+  "name": "ticketbooth-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NAKsir-melody/ticketbooth-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NAKsir-melody/ticketbooth-app/issues"
+  },
+  "homepage": "https://github.com/NAKsir-melody/ticketbooth-app#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.4.17"
+  }
+}
